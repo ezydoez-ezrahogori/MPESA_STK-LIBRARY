@@ -22,7 +22,7 @@ char * WIFI_SSID = "__ssid__";
 char * WIFI_PASS = "__password__";
 
 // the callback & check URL is based on the PHP files @
-// https://github.com/fbiego/stkHandler
+
 String callbackURL = "https://api.fbiego.com/v1/mpesa/callback";
 String checkURL = "https://api.fbiego.com/v1/mpesa/check";
 
